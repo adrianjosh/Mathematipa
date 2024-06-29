@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Wavecraze
+  m_EditorClassIdentifier: 
+  name: Wavecraze
+  description: 
+  frontSprite: {fileID: 21300000, guid: 13b3c0abfba55da40b816a7e232129e5, type: 3}
+  backSprite: {fileID: 21300000, guid: 5f4a241f77cfb444ea6428a48f2fa761, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 70
+  attack: 85
+  defense: 65
+  speed: 60
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 3f73b818d0c894a4bb06238b53b742e1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1115519a1754d3c4d8a005d57951f09d, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 4adf9dc68845d654384f5c6abfb9c118, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 7ea5d3e25288db045997306d24752d2d, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: d88ff4822409d354691f5913debef0de, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 23df9a12edaaaca499611a7c84beba06, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

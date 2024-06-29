@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Pyroblaze
+  m_EditorClassIdentifier: 
+  name: Pyroblaze
+  description: 
+  frontSprite: {fileID: 21300000, guid: 4cd3c84e27ab8f544af52d463ac7939d, type: 3}
+  backSprite: {fileID: 21300000, guid: 1f9b972facf3b3842bc9d6cac929db4f, type: 3}
+  type1: 2
+  type2: 0
+  maxHp: 80
+  attack: 60
+  defense: 90
+  speed: 70
+  expYield: 64
+  growthRate: 1
+  catchRate: 200
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 52636f61adb30904fb0b8b4890e00432, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d587ee45b03baca49806ea8065ccec84, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: c46b4d11d1d485541bbaef6a6661c6b9, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: be2b6eae921a4964fa566d6d9f39cd69, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: f2350c2753516df44b00e6f6d8e544f1, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 541636f5b7c32d44cadaf19151633949, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

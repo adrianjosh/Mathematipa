@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Lolo
+  m_EditorClassIdentifier: 
+  name: Lolo
+  description: 
+  frontSprite: {fileID: 21300000, guid: 8d1ac511eb37bee41aa6c2b3d88aeda5, type: 3}
+  backSprite: {fileID: 21300000, guid: d778c2e854613a04780f2e544d247912, type: 3}
+  type1: 7
+  type2: 0
+  maxHp: 35
+  attack: 55
+  defense: 45
+  speed: 90
+  expYield: 64
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 8fff5003ecea8d34a862bbcd4703ecbf, type: 2}
+    level: 2
+  - moveBase: {fileID: 11400000, guid: 600ee16ded4e9c34cb637cd11a4c1465, type: 2}
+    level: 1
+  learnableByItems:
+  - {fileID: 11400000, guid: 600ee16ded4e9c34cb637cd11a4c1465, type: 2}
+  - {fileID: 11400000, guid: 6dc3f69794ecf7c44914423056bc7ff6, type: 2}

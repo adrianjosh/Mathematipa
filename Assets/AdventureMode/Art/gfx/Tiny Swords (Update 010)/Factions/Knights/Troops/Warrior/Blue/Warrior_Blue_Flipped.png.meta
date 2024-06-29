@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 2ff7c68e81472e64ba42a990dd71094d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc639607b294794c9c03b4d60760709
+      internalID: 887569423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad185de1a8a4b7b4fa9c537ae15112f1
+      internalID: 959889845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3d9b609ab30448b082cfaa4dcd937
+      internalID: 586239200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccf0a197ed3ef54ab391d9ac76f364d
+      internalID: -854563947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffed3c3f60015344b8cf39030bfda37
+      internalID: -83090299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1343.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e90bba0e0e98b4d8da18cee9c36d03
+      internalID: -1594100212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6213fe288dbaef46a764910109cf700
+      internalID: 657752283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27be378c406d442937a51eb2de8d9f
+      internalID: -478146410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bed9155a2a2b424f8c1c7cb839824af
+      internalID: -954270164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a6eaba6576d644aeb37db65983084
+      internalID: -1869378969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd400f414c94b804eb4ffd40758d116e
+      internalID: 1357307130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1152.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c02f992367d67419a7d6af66738204
+      internalID: -828844400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00c9db6587fffc41bfb9455c0b1f2fa
+      internalID: 2143629605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d4921243d799428a9cd550835fe79
+      internalID: 1211979597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645fe5e93048594fa3e193e643a25cb
+      internalID: -1659090707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f61d055558a0b4e9a911d5a2fc6abd
+      internalID: 1143181583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c450b7906ac1e48af865c7bcbd4237
+      internalID: -1047846180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 961.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed7af856b12e94781ea6c633608de9
+      internalID: 980897395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d593ad953f2a574488c96eb9fcb2b680
+      internalID: -962807155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b2ad568d1ca64492996f6351e03bf
+      internalID: 1162657448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98850a50c30284eb32badba7658861
+      internalID: -91604999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4da661b9c8fb44a8c5816bf38fd90
+      internalID: 1598908688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43ef0a0147eb449acfc6076250072f
+      internalID: 2128673109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05dc799cc466244ba6efff2d95fa63
+      internalID: -1295961825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b70c2fe6ea2b4480201543e6bbf13
+      internalID: 401860073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887e7b7e1f9c6844bd5aae00ec658cb
+      internalID: 1029433141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ccd66425682c40b8455f2b9e4d2af
+      internalID: 121742485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158524d4d7726149b08c3b036754d42
+      internalID: -1712259186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c34da25ff74e54b851adcd89609dd7
+      internalID: -655463876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 579.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ae04a49b88684e864c9fcd1c07aaa
+      internalID: -696177435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86692ebd81996f740a5899e479edb96a
+      internalID: 1504177511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2292851fe51f741bba94d275459d7e
+      internalID: 1212078834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cab842ec59d214d85bb21c130a8844
+      internalID: 1816190508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff93a97006790342a6d9214c9a3f759
+      internalID: 1378211840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905998c2caf38e41a4adf239c6a5605
+      internalID: -864484602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 388.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77900c519cf07459aac3f6a7f8c731
+      internalID: 1185752875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5219477e863b4ea6c508dff052f1d
+      internalID: -1040003693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfdecea032b7cc428a38f88ad79631b
+      internalID: 2014711229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150727f251ab974880641ac23812074
+      internalID: 1274181427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564ee48c5baf2a46a6fee4f1b05353e
+      internalID: -1912137899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa361e3ffa22242ab5e6eacdb13160
+      internalID: -1076187743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 197.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b952788cf8e6d0488353037a826fc8d
+      internalID: 1790163303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d767ad94b8c35b4492038d8a46e3109
+      internalID: -1175104716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eee8346236101f44b2b1044512ad44f
+      internalID: -2123312978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99f3c0068eb8d4aaf19bdba2c76343
+      internalID: -649388030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_45
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffa9c19089ec0e478efcf57a4c95d08
+      internalID: -1072578499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865afbcd80e71694c998d9c95e88409c
+      internalID: 1010453449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_Flipped_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6.125
+        width: 192
+        height: 191.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63859b0a79cd2144a7062b85b43719f
+      internalID: 128756760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Warrior_Blue_Flipped_0: 887569423
+      Warrior_Blue_Flipped_1: 959889845
+      Warrior_Blue_Flipped_10: 1357307130
+      Warrior_Blue_Flipped_11: -828844400
+      Warrior_Blue_Flipped_12: 2143629605
+      Warrior_Blue_Flipped_13: 1211979597
+      Warrior_Blue_Flipped_14: -1659090707
+      Warrior_Blue_Flipped_15: 1143181583
+      Warrior_Blue_Flipped_16: -1047846180
+      Warrior_Blue_Flipped_17: 980897395
+      Warrior_Blue_Flipped_18: -962807155
+      Warrior_Blue_Flipped_19: 1162657448
+      Warrior_Blue_Flipped_2: 586239200
+      Warrior_Blue_Flipped_20: -91604999
+      Warrior_Blue_Flipped_21: 1598908688
+      Warrior_Blue_Flipped_22: 2128673109
+      Warrior_Blue_Flipped_23: -1295961825
+      Warrior_Blue_Flipped_24: 401860073
+      Warrior_Blue_Flipped_25: 1029433141
+      Warrior_Blue_Flipped_26: 121742485
+      Warrior_Blue_Flipped_27: -1712259186
+      Warrior_Blue_Flipped_28: -655463876
+      Warrior_Blue_Flipped_29: -696177435
+      Warrior_Blue_Flipped_3: -854563947
+      Warrior_Blue_Flipped_30: 1504177511
+      Warrior_Blue_Flipped_31: 1212078834
+      Warrior_Blue_Flipped_32: 1816190508
+      Warrior_Blue_Flipped_33: 1378211840
+      Warrior_Blue_Flipped_34: -864484602
+      Warrior_Blue_Flipped_35: 1185752875
+      Warrior_Blue_Flipped_36: -1040003693
+      Warrior_Blue_Flipped_37: 2014711229
+      Warrior_Blue_Flipped_38: 1274181427
+      Warrior_Blue_Flipped_39: -1912137899
+      Warrior_Blue_Flipped_4: -83090299
+      Warrior_Blue_Flipped_40: -1076187743
+      Warrior_Blue_Flipped_41: 1790163303
+      Warrior_Blue_Flipped_42: -1175104716
+      Warrior_Blue_Flipped_43: -2123312978
+      Warrior_Blue_Flipped_44: -649388030
+      Warrior_Blue_Flipped_45: -1072578499
+      Warrior_Blue_Flipped_46: 1010453449
+      Warrior_Blue_Flipped_47: 128756760
+      Warrior_Blue_Flipped_5: -1594100212
+      Warrior_Blue_Flipped_6: 657752283
+      Warrior_Blue_Flipped_7: -478146410
+      Warrior_Blue_Flipped_8: -954270164
+      Warrior_Blue_Flipped_9: -1869378969
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

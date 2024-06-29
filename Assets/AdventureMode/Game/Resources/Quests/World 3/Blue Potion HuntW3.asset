@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a1a0e79ac7384fb1a43814de61954, type: 3}
+  m_Name: Blue Potion HuntW3
+  m_EditorClassIdentifier: 
+  name: BluePotionHuntW3
+  description: 
+  startDialogue:
+    lines:
+    - Hey there! Sorry to bother you
+    - I seem to have misplaced my blue potion
+    - It's really important for my crops
+    - Could you lend a hand and help me find it?
+  inProgressDialogue:
+    lines:
+    - It's really important for my crops
+  completedDialogue:
+    lines:
+    - Oh you got it! You're a lifesaver!
+    - You can have this Revive as a reward
+  requiredItem: {fileID: 11400000, guid: a6436340ba2312f47a36f4963a05dcbb, type: 2}
+  rewardItem: {fileID: 11400000, guid: d975a8b393e332946a45dd35b0abe09b, type: 2}

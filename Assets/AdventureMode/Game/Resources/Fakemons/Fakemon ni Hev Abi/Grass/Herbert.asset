@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Herbert
+  m_EditorClassIdentifier: 
+  name: Herbert
+  description: 
+  frontSprite: {fileID: 21300000, guid: afb75689a153b794fa9e712bb72a67d2, type: 3}
+  backSprite: {fileID: 21300000, guid: 9d4be05f749a1994db6750c024576da8, type: 3}
+  type1: 5
+  type2: 0
+  maxHp: 60
+  attack: 62
+  defense: 63
+  speed: 80
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: e4dd309f742c11642b6b19b4928b3b8c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d22e933ec62cb0c49a402042ef3ee3d9, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 82785929078091c49a23015c6b95d032, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 787155e3dcaeb474b8a74b3613f74f16, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 9d57f442b5c5fe0409d7f60970410e7b, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: e879790e55119454bbb2f8ad60d304f8, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Purrswirl
+  m_EditorClassIdentifier: 
+  name: Purrswirl
+  description: 
+  frontSprite: {fileID: 21300000, guid: 5ef256d82a38a7847bb656121b5e37b1, type: 3}
+  backSprite: {fileID: 21300000, guid: 2c9c9d01e195eb4409f8cb6f3d9ab8eb, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 60
+  attack: 85
+  defense: 69
+  speed: 69
+  expYield: 64
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 3d8c93e8aabc0c144aaa11ae5209242d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 825e864d88b26da4ca3fe6c0f4857ffe, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 60c5a6f018c07ba47a9c8b0f4a9bd7e6, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: b0c5231e09bba554ebda3233dd81c344, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 310a3ab22abdfa6428e77f3f83729c52, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 7423aefdc2adc9a4d89b9987973f8069, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

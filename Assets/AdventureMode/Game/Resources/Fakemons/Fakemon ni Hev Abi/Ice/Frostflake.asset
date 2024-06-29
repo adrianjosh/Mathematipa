@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Frostflake
+  m_EditorClassIdentifier: 
+  name: Frostflake
+  description: 
+  frontSprite: {fileID: 21300000, guid: 0872f21663d062f41bb32f1bb1fa8f86, type: 3}
+  backSprite: {fileID: 21300000, guid: e2eca779866ba6f42a9b38c24efdb467, type: 3}
+  type1: 6
+  type2: 0
+  maxHp: 90
+  attack: 60
+  defense: 70
+  speed: 70
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c57ae7cf33bf8a3428916050a8f42819, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 695a7770d0985194680d97cb01481a5b, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 82a48743ae72e354e83b22314c2fc0c5, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 7700c84b9b2d8404288accb26000b6be, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 8a8af44ef4dc03c41b5080d63ae4fd64, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 9e46bb5992353e54a909acc07d197a01, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

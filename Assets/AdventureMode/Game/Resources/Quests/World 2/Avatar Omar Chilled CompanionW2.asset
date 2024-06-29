@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a1a0e79ac7384fb1a43814de61954, type: 3}
+  m_Name: Avatar Omar Chilled CompanionW2
+  m_EditorClassIdentifier: 
+  name: AvatarOmarChilledCompanionW2
+  description: 
+  startDialogue:
+    lines:
+    - My companion suffering from freeze ailment
+    - To restore my monster's health, I seek a Freeze Potion
+  inProgressDialogue:
+    lines:
+    - To restore my monster's health, I seek a Freeze Potion
+  completedDialogue:
+    lines:
+    - Oh you got it! Thank you so much
+    - You can have this Decaf if you ever find your monster sleeping uncontrollably
+  requiredItem: {fileID: 11400000, guid: c07437da64f2e0e49badf4f5ef3ec3a0, type: 2}
+  rewardItem: {fileID: 11400000, guid: 8b6597510f97cf64c899e7a994d97a44, type: 2}

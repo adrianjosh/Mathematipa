@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Manipulator
+  m_EditorClassIdentifier: 
+  name: Manipulator
+  description: 
+  frontSprite: {fileID: 21300000, guid: 7b6710efc2975c94c8eac4c33a901825, type: 3}
+  backSprite: {fileID: 21300000, guid: 8d97e5b14677ab34e8bff0c5ea332fc6, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 35
+  attack: 55
+  defense: 45
+  speed: 90
+  expYield: 64
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 600ee16ded4e9c34cb637cd11a4c1465, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7df6edfb877025c4caaa914bed6a174d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2ff25ec752a7f54449889827ededb343, type: 2}
+    level: 7
+  learnableByItems:
+  - {fileID: 11400000, guid: 600ee16ded4e9c34cb637cd11a4c1465, type: 2}
+  - {fileID: 11400000, guid: 6dc3f69794ecf7c44914423056bc7ff6, type: 2}

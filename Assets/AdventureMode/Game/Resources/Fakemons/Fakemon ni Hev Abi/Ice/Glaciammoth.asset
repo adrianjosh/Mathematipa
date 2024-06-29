@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Glaciammoth
+  m_EditorClassIdentifier: 
+  name: Glaciammoth
+  description: 
+  frontSprite: {fileID: 21300000, guid: 51d3b4445612abf4793081d41ce9d23d, type: 3}
+  backSprite: {fileID: 21300000, guid: be052d6d8b977c746b2942174fc6f895, type: 3}
+  type1: 6
+  type2: 0
+  maxHp: 55
+  attack: 95
+  defense: 55
+  speed: 75
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: ad614588445a928439032aa4604044c5, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5bf86b2fc93b4c64c8e6e5ee86d02aca, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 82a48743ae72e354e83b22314c2fc0c5, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 6d60e06c841920143ba0fc2371c9b85e, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: cb2ff829a13c85b448cbcc79f3cc4f02, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 2cf6ac2308a3cd34b95bcd3cfabc0ad6, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

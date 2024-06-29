@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Hydroflare
+  m_EditorClassIdentifier: 
+  name: Hydroflare
+  description: 
+  frontSprite: {fileID: 21300000, guid: 9357994df8596e94db70b2663478db10, type: 3}
+  backSprite: {fileID: 21300000, guid: 58914a1afae005545a8ff703fb6f8a58, type: 3}
+  type1: 3
+  type2: 0
+  maxHp: 65
+  attack: 55
+  defense: 95
+  speed: 95
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: acaa020302319a24a975352492881e12, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ce51f037a30d21247b75cb83ae1a71db, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: ae83117af05255242a8a1137b8f21325, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: bdd02d166fdc35740b74b3224a6d4a61, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 7ea5d3e25288db045997306d24752d2d, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: a78a035e4bd361c4b8f5d01693ae698d, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

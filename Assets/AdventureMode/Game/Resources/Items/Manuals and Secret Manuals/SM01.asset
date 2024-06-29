@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7d94105347a484684e5dd14019f7da, type: 3}
+  m_Name: SM01
+  m_EditorClassIdentifier: 
+  name: SM01
+  description: A secret manual. Teaches Engrave to a monster
+  icon: {fileID: 1989464158, guid: 3ae12697ae504414bbf0797ea36dfddd, type: 3}
+  move: {fileID: 11400000, guid: 6337487ba03a872408fdf34d64fb3776, type: 2}
+  isSM: 1

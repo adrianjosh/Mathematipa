@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Equinoxile
+  m_EditorClassIdentifier: 
+  name: Equinoxile
+  description: 
+  frontSprite: {fileID: 21300000, guid: e1dda012565f33549b5601c0ffe918ce, type: 3}
+  backSprite: {fileID: 21300000, guid: ad1892f216d10c3448453334fa2413e8, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 103
+  attack: 60
+  defense: 86
+  speed: 86
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 600ee16ded4e9c34cb637cd11a4c1465, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6dc3f69794ecf7c44914423056bc7ff6, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 3f1bd6902475104409d8a9ad4a749d72, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 730e444b3f5e9dc4e81db315c9ab2651, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: ce84a5411b72eaf419562f64f27718fa, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 7423aefdc2adc9a4d89b9987973f8069, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

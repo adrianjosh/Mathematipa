@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a1a0e79ac7384fb1a43814de61954, type: 3}
+  m_Name: Jograt's First CatchW3
+  m_EditorClassIdentifier: 
+  name: Jograt'sFirstCatchW3
+  description: 
+  startDialogue:
+    lines:
+    - I am aspiring to become a seasoned monster trainer
+    - Can you lend me a Monster Bait?
+  inProgressDialogue:
+    lines:
+    - Can you lend me a Monster Bait?
+  completedDialogue:
+    lines:
+    - Thank you! I've been dreaming of this moment for ages
+    - You can have this Commom Potion as a reward
+  requiredItem: {fileID: 11400000, guid: bc80de0c977bea84b831efa2c1426ee4, type: 2}
+  rewardItem: {fileID: 11400000, guid: 48d31053a3a799f4d843b5d0000812e4, type: 2}

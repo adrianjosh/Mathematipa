@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Fernspire
+  m_EditorClassIdentifier: 
+  name: Fernspire
+  description: 
+  frontSprite: {fileID: 21300000, guid: aee4a57dd205af94294876a8ee7fb486, type: 3}
+  backSprite: {fileID: 21300000, guid: 6a8025819cf0b5b4cbb8b6fb4e552e9c, type: 3}
+  type1: 5
+  type2: 0
+  maxHp: 75
+  attack: 89
+  defense: 85
+  speed: 65
+  expYield: 64
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 2b1eeb335e2a5d34ca28f871bf784a30, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d44e79213e3034a4c8fb6060c2580a5d, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: b1c9b1791152b0f43bbedf0e68b34db1, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: e879790e55119454bbb2f8ad60d304f8, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 5962b9c1f574b3d459bbc034d0849f30, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 9d57f442b5c5fe0409d7f60970410e7b, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []

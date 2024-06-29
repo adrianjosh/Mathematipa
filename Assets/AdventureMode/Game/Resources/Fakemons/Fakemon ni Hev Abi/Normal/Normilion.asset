@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c716040a0faac3741873527d1e32202b, type: 3}
+  m_Name: Normilion
+  m_EditorClassIdentifier: 
+  name: Normilion
+  description: 
+  frontSprite: {fileID: 21300000, guid: 688dbfe7c37e30d479af45e7f2fe63da, type: 3}
+  backSprite: {fileID: 21300000, guid: cd8b493657f3c4940a7024c1206ed432, type: 3}
+  type1: 1
+  type2: 0
+  maxHp: 250
+  attack: 5
+  defense: 5
+  speed: 105
+  expYield: 64
+  growthRate: 1
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: d5870d9f07704464abc26f244017e284, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6dc3f69794ecf7c44914423056bc7ff6, type: 2}
+    level: 5
+  - moveBase: {fileID: 11400000, guid: 7f7ea7b5893418a47a36ff34fadb6b2f, type: 2}
+    level: 11
+  - moveBase: {fileID: 11400000, guid: 730e444b3f5e9dc4e81db315c9ab2651, type: 2}
+    level: 17
+  - moveBase: {fileID: 11400000, guid: 776de3163c6a29846904e9d180ac9f59, type: 2}
+    level: 25
+  - moveBase: {fileID: 11400000, guid: 7423aefdc2adc9a4d89b9987973f8069, type: 2}
+    level: 33
+  learnableByItems: []
+  evolutions: []
